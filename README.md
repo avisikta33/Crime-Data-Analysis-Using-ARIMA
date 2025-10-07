@@ -56,44 +56,6 @@ Crime data extracted from official records available on [Kaggle](https://www.kag
 
 ---
 
-## 🛠️ Installation
-
-### Prerequisites
-- Python 3.8 or higher
-- pip package manager
-
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/yourusername/crime-arima-analysis.git
-cd crime-arima-analysis
-```
-
-### Step 2: Install Required Packages
-```bash
-pip install -r requirements.txt
-```
-
-Or install individually:
-```bash
-pip install pandas numpy matplotlib seaborn statsmodels
-```
-
----
-
-## 📦 Dependencies
-
-```
-pandas>=1.5.0
-numpy>=1.23.0
-matplotlib>=3.6.0
-seaborn>=0.12.0
-statsmodels>=0.14.0
-```
-
-Create a `requirements.txt` file with the above content.
-
----
-
 ## 🚀 Usage
 
 ### Basic Execution
